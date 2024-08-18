@@ -8,7 +8,7 @@ Olá!Meu nome é **Maria Luiza**, sou **estudante de programação** e sou apaix
 <p> 📫 Caso queira falar comigo sobre programação ou me dar dicas (Estou sempre aberta para aprender coisas novas!):</p>
 <div>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlrOWtjb3Q2eGQ1MWM1eHdrb3p3anliMDdxa2pheDl2bzIwbXU0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u5GxLmudnA8vK/giphy.gif" style="width:35px;height:28px;"/>
-  <a href= "1175539366895046687"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href= "https://discord.com/channels/@1175539366895046687"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 <br/>
   <h2 >🐾GitHub stats:</h2> 
