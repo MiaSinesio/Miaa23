@@ -1,7 +1,7 @@
 <h1>Hello World!</h1>
 
 ## 🐕Sobre mim:
-Olá!Meu nome é **Maria Luiza**. Sou **estudante de programação** e sou apaixonada pelo que faço, digamos que foi amor à primeira codificada 💕.  
+Hey!Meu nome é **Maria Luiza**. Sou **estudante de programação** e sou apaixonada pelo que faço, digamos que foi amor à primeira codificada 💕.  
 
 - 👾Desenvolvedora *front-end em andamento...*
 - 🔭 Atualmente estou codando em **JavaScript, HTML e CSS**.
